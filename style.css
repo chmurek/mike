@@ -1,0 +1,59 @@
+#main{
+  
+  
+    
+    background-color: #ccff66;
+}
+
+#title{
+    display:flex;
+    justify-content: center;
+
+}
+
+#subtitle{
+    display: flex;
+    justify-content: center;
+}
+
+#img-div{
+    display: flex;
+    justify-content: center;
+    background-color: #5c8a8a;
+    flex-direction: column;
+
+}
+
+#image{
+    display: flex;
+    justify-content: center;
+    background-color: #5c8a8a;
+    padding-top: 4rem;
+
+
+}
+
+#img-caption{
+    display: flex;
+    justify-content: center;
+}
+
+#tribute-info h2{
+    display:flex;
+    justify-content: center;
+}
+
+#tribute-info h3{
+    display:flex;
+    justify-content: center;
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+#tribute-link {
+    display:flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+    target="_blank";
+}
+
